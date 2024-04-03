@@ -17,13 +17,29 @@ const tracks = [
       title: "Madza - Persistence",
       tags: ["dubstep"],
     },
+    {
+    url:"/audio/Soda Stereo - Signos (Official Audio).mp3",
+    title: "Signos",
+    tags: ["Rock"],
+  },
+  {
+    url: "/audio/Los Piojos - Tan solo (Con letra).mp3",
+    title: "Tan solo",
+    tags: ["Rock"],
+  },
+  {
+    url: "/audio/Los Piojos - Bicho de ciudad (Con letra).mp3",
+    title: "Bicho de ciudad",
+    tags: ["Rock"],
+  },
+    
   ];
   const colors = {
     tagsBackground: "#FFFFFF",
     tagsText: "#008080",
     tagsBackgroundHoverActive: "#6e65f1",
     tagsTextHoverActive: "#ffffff",
-    searchBackground: "#dc143c",
+    searchBackground: "#FA8072",
     searchText: "#0000FF",
     searchPlaceHolder: "#FFF0F5",
     playerBackground: "#18191f",
